@@ -1,0 +1,11 @@
+Z:\Projetos SEK\goLibs\gosharp\bin\Release\net48\main.exe.config
+Z:\Projetos SEK\goLibs\gosharp\bin\Release\net48\main.exe
+Z:\Projetos SEK\goLibs\gosharp\bin\Release\net48\main.pdb
+Z:\Projetos SEK\goLibs\gosharp\obj\Release\net48\gosharp.csproj.AssemblyReference.cache
+Z:\Projetos SEK\goLibs\gosharp\obj\Release\net48\gosharp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Projetos SEK\goLibs\gosharp\obj\Release\net48\gosharp.csproj.CoreCompileInputs.cache
+Z:\Projetos SEK\goLibs\gosharp\obj\Release\net48\main.exe
+Z:\Projetos SEK\goLibs\gosharp\obj\Release\net48\main.pdb
+Z:\Projetos SEK\goLibs\gosharp\bin\Release\net48\Costura.dll
+Z:\Projetos SEK\goLibs\gosharp\bin\Release\net48\System.Diagnostics.DiagnosticSource.dll
+Z:\Projetos SEK\goLibs\gosharp\obj\Release\net48\gosharp.csproj.CopyComplete
